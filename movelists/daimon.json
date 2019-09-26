@@ -1,0 +1,106 @@
+{
+  "names": {
+    "default": {
+      "roman": "Daimon"
+    },
+    "japan": {
+      "roman": "Daimon",
+      "original": "大門 五郎"
+    }
+  },
+  "images": {
+    "face": "daimon.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Juji Shime",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Hiza Guruma",
+        "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Tsukami Tataki Tsuke",
+        "input": "{1StepAway}, :b: {or} :f:+[C]"
+      }
+    ],
+    "{commandMoves}":[
+{
+  "name": "Tama Tsubushi",
+  "input": ":f:+[A]"
+},
+{
+  "name": "Zujo Barai",
+  "input": ":df:+[C]"
+}
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Jiraishin",
+        "input": ":dp:+[A]"
+      },      
+      {
+        "name": "Jiraishin (Feint)",
+        "input": ":dp:+[C]"
+      }, 
+      {
+        "name": "Tenchi Gaeshi",
+        "input": "{close}, :hcb::f:+[A] {or} [C]"
+      },
+      {
+        "name": "Ura Nage",
+        "input": ":hcb::f:+[B] {or} [D]"
+      },    
+      {
+        "name": "Kumo Tsukami Nage",
+        "input": ":hcf:+[A]"
+      },
+      {
+        "name": "Kirikabu Gaeshi",
+        "input": ":hcf:+[C]"
+      },       
+      {
+        "name": "Cho Osotogari",
+        "input": ":dp:+[B] {or} [D]"
+      },    
+      {
+        "name": "Cho Ukemi",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Nekko Gaeshi",
+        "input": ":qcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Jigoku Gokuraku Otoshi",
+        "input": "{close}, :hcb::hcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Arashi no Yama (Nekko Nuki)",
+        "input": "{close}, :hcf::hcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Arashi no Yama (Zoku Kirikabu Gaeshi)",
+        "input": ":hcf:+[B] {or} [D]",
+        "after": "Arashi no Yama (Nekko Nuki)"
+      },
+      {
+        "name": "Arashi no Yama (Bukko Nuki Ura Nage)",
+        "input": ":dp:+[B] {or} [D]",
+        "after": "Arashi no Yama (Zoku Kirikabu Gaeshi)"
+      }
+    ]
+  },
+  "custom_strings": {
+		"english": [
+			{ "1StepAway": "one step away from the opponent"}
+		],
+		"portuguese": [
+			{ "1StepAway": "a um passo de distância do oponente"}
+		]
+	}
+}
