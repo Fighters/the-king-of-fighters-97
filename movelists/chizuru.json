@@ -1,0 +1,68 @@
+{
+  "names": {
+    "default": {
+      "roman": "Chizuru"
+    },
+    "japan": {
+      "roman": "Chizuru",
+      "original": "神楽 ちづる"
+    }
+  },
+  "images": {
+    "face": "chizuru.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Reigetsu",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Kaiten",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "100 Katsu: Tenjin no Kotowari",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "108 Katsu: Tamayura no Shitsune",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "212 Katsu: Shinsoku no Norito",
+        "input": ":hcb:+[A] {or} [B] {or} [C] {or} [D]"
+      },
+      {
+        "name": "212 Katsu: Shinsoku no Norito ~ Tenzui",
+        "input": ":qcb:+[A] {or} [B] {or} [C] {or} [D]",
+        "after": "212 Katsu: Shinsoku no Norito",
+        "extraInfo": "{tenzuiButton}"
+      },
+      {
+        "name": "212 Katsu Otsu Shiki: Chomon no Isshin",
+        "input": ":qcf:+[A] {or} [B] {or} [C] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Rimen 1 Katsu: Sanrai no Fujin",
+        "input": ":qcf::qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Rimen 85 Katsu: Reigi no Ishizue",
+        "input": ":qcb::db::qcf:+[A] {or} [C]"
+      }
+    ]
+  },
+  "custom_strings": {
+    "english": {
+      "tenzuiButton": "must use the same button used for 212 Katsu: Shinsoku no Norito"
+    },
+    "portuguese": {
+      "tenzuiButton": "faça com o mesmo botão usado ao fazer o 212 Katsu: Shinsoku no Norito"
+    }
+  }
+}
