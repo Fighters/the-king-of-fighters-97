@@ -69,6 +69,11 @@
         "name": "Rigyo Hanho",
         "input": ":u:+[D]",
         "after": "Bogetsu Sui"
+      },
+      {
+        "name": "Kaitenteki Kutotsuken",
+        "input": ":hcf:+[B] {or} [D]",
+        "after": "Bogetsu Sui"
       }
     ],
     "{desperationMove}": [
