@@ -340,12 +340,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Kasumi Todo"
+            "roman": "Chizuru Kagura"
           },
           {
             "region": "japan",
-            "roman": "Kasumi Todo",
-            "original": "藤堂 香澄"
+            "roman": "Chizuru Kagura",
+            "original": "神楽 ちづる"
           }
         ]
       },
@@ -392,6 +392,84 @@
         "regions": [
           {
             "region": "default",
+            "roman": "Yashiro Nanakase"
+          },
+          {
+            "region": "japan",
+            "roman": "Yashiro Nanakase",
+            "original": "七枷 社"
+          }
+        ]
+      },
+      {
+        "regions": [
+          {
+            "region": "default",
+            "roman": "Shermie"
+          },
+          {
+            "region": "japan",
+            "roman": "Shermie",
+            "original": "シェルミー"
+          }
+        ]
+      },
+      {
+        "regions": [
+          {
+            "region": "default",
+            "roman": "Chris"
+          },
+          {
+            "region": "japan",
+            "roman": "Chris",
+            "original": "クリス"
+          }
+        ]
+      },
+      {
+        "regions": [
+          {
+            "region": "default",
+            "roman": "Blue Mary"
+          },
+          {
+            "region": "japan",
+            "roman": "Blue Mary",
+            "original": "ブルー・マリー"
+          }
+        ]
+      },
+      {
+        "regions": [
+          {
+            "region": "default",
+            "roman": "Ryuji Yamazaki"
+          },
+          {
+            "region": "japan",
+            "roman": "Ryuji Yamazaki",
+            "original": "山崎 竜二"
+          }
+        ]
+      },
+      {
+        "regions": [
+          {
+            "region": "default",
+            "roman": "Billy Kane"
+          },
+          {
+            "region": "japan",
+            "roman": "Billy Kane",
+            "original": "ビリー・カーン"
+          }
+        ]
+      },
+      {
+        "regions": [
+          {
+            "region": "default",
             "roman": "Iori Yagami"
           },
           {
@@ -405,12 +483,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Mature"
+            "roman": "Shingo Yabuki"
           },
           {
             "region": "japan",
-            "roman": "Mature",
-            "original": "マチュア"
+            "roman": "Shingo Yabuki",
+            "original": "矢吹 真吾"
           }
         ]
       },
@@ -418,12 +496,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Vice"
+            "roman": "Yashiro Orochi"
           },
           {
             "region": "japan",
-            "roman": "Vice",
-            "original": "バイス"
+            "roman": "Yashiro Nanakase of the Parched Earth",
+            "original": "乾いた大地の社"
           }
         ]
       },
@@ -431,12 +509,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Geese Howard"
+            "roman": "Shermie Orochi"
           },
           {
             "region": "japan",
-            "roman": "Geese Howard",
-            "original": "ギース・ハワード"
+            "roman": "Shermie of the Savagely Crazed Flash of Lightning",
+            "original": "荒れ狂う稲光のシェルミー"
           }
         ]
       },
@@ -444,12 +522,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Mr. Big"
+            "roman": "Chris Orochi"
           },
           {
             "region": "japan",
-            "roman": "Mr. Big",
-            "original": "Mr. ビッグ"
+            "roman": "Chris of the Flames of Destiny",
+            "original": "炎のさだめのクリス"
           }
         ]
       },
@@ -457,12 +535,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Wolfgang Krauser"
+            "roman": "Iori Orochi"
           },
           {
             "region": "japan",
-            "roman": "Wolfgang Krauser",
-            "original": "ヴォルフガング・クラウザー"
+            "roman": "Iori Orochi",
+            "original": "暴走庵"
           }
         ]
       },
@@ -470,12 +548,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Chizuru Kagura"
+            "roman": "Leona Orochi"
           },
           {
             "region": "japan",
-            "roman": "Chizuru Kagura",
-            "original": "神楽 ちづる"
+            "roman": "Leona Orochi",
+            "original": "暴走レオナ"
           }
         ]
       },
@@ -483,12 +561,12 @@
         "regions": [
           {
             "region": "default",
-            "roman": "Goenitz"
+            "roman": "Orochi"
           },
           {
             "region": "japan",
-            "roman": "Goenitz",
-            "original": "ゲーニッツ"
+            "roman": "Orochi",
+            "original": "オロチ"
           }
         ]
       }
