@@ -1,0 +1,68 @@
+{
+  "names": {
+    "default": {
+      "roman": "King"
+    },
+    "japan": {
+      "roman": "King",
+      "original": "キング"
+    }
+  },
+  "images": {
+    "face": "king.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Hold Rush",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Hook Buster",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Sliding",
+        "input": ":df:+[D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Venom Strike",
+        "input": ":qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Double Strike",
+        "input": ":qcf::qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Surprise Rose",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Trap Shot",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Mirage Kick",
+        "input": ":hcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Tornado Kick",
+        "input": ":hcb:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Illusion Dance",
+        "input": ":qcf::df::qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Silent Flash",
+        "input": ":qcb::qcb:+[B] {or} [D]"
+      }
+    ]
+  }
+}
