@@ -26,25 +26,25 @@
         "input": "{1StepAway}, :b: {or} :f:+[C]"
       }
     ],
-    "{commandMoves}":[
-{
-  "name": "Tama Tsubushi",
-  "input": ":f:+[A]"
-},
-{
-  "name": "Zujo Barai",
-  "input": ":df:+[C]"
-}
+    "{commandMoves}": [
+      {
+        "name": "Tama Tsubushi",
+        "input": ":f:+[A]"
+      },
+      {
+        "name": "Zujo Barai",
+        "input": ":df:+[C]"
+      }
     ],
     "{specialMoves}": [
       {
         "name": "Jiraishin",
         "input": ":dp:+[A]"
-      },      
+      },
       {
         "name": "Jiraishin (Feint)",
         "input": ":dp:+[C]"
-      }, 
+      },
       {
         "name": "Tenchi Gaeshi",
         "input": "{close}, :hcb::f:+[A] {or} [C]"
@@ -52,7 +52,7 @@
       {
         "name": "Ura Nage",
         "input": ":hcb::f:+[B] {or} [D]"
-      },    
+      },
       {
         "name": "Kumo Tsukami Nage",
         "input": ":hcf:+[A]"
@@ -60,11 +60,11 @@
       {
         "name": "Kirikabu Gaeshi",
         "input": ":hcf:+[C]"
-      },       
+      },
       {
         "name": "Cho Osotogari",
         "input": ":dp:+[B] {or} [D]"
-      },    
+      },
       {
         "name": "Cho Ukemi",
         "input": ":qcb:+[B] {or} [D]"
@@ -96,11 +96,7 @@
     ]
   },
   "custom_strings": {
-		"english": [
-			{ "1StepAway": "one step away from the opponent"}
-		],
-		"portuguese": [
-			{ "1StepAway": "a um passo de distância do oponente"}
-		]
-	}
+    "english": [{ "1StepAway": "one step away from the opponent" }],
+    "portuguese": [{ "1StepAway": "a um passo de distância do oponente" }]
+  }
 }
