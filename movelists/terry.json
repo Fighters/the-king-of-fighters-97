@@ -1,0 +1,72 @@
+{
+  "names": {
+    "default": {
+      "roman": "Terry"
+    },
+    "japan": {
+      "roman": "Terry",
+      "original": "テリー・ボガード"
+    }
+  },
+  "images": {
+    "face": "terry.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Grasping Upper",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Buster Throw",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Back Knuckle",
+        "input": ":f:+[A]"
+      },
+      {
+        "name": "Rising Upper",
+        "input": ":df:+[C]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Power Wave",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Burn Knuckle",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Crack Shoot",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Rising Tackle",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Power Dunk",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Power Charge",
+        "input": ":hcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Power Geyser",
+        "input": ":qcb::db::f:+[A] {or} [C]"
+      },
+      {
+        "name": "High Angle Geyser",
+        "input": ":qcf::qcf:+[B] {or} [D]"
+      }
+    ]
+  }
+}
