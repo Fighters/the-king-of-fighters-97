@@ -22,6 +22,12 @@
         "input": "{close}, :b: {or} :f:+[D]"
       }
     ],
+    "{commandMoves}": [
+      {
+        "name": "Uwa Agito",
+        "input": ":f:+[B]"
+      }
+    ],
     "{specialMoves}": [
       {
         "name": "Hishoken",
@@ -46,7 +52,7 @@
       },
       {
         "name": "Gekiheki Haisuisho",
-        "input": "{close}, :hcf:+[C]"
+        "input": "{close}, :hcf:+[A] {or} [C]"
       },
       {
         "name": "Genei Shiranui",
@@ -67,6 +73,10 @@
       {
         "name": "Cho Reppadan",
         "input": ":qcb::db::qcf::+[B] {or} [D]"
+      },
+      {
+        "name": "Hisho Ryuseiken",
+        "input": ":qcf::qcf::+[A] {or} [C]"
       }
     ]
   }
