@@ -70,6 +70,14 @@
       {
         "name": "Cho Hissatsu Shinobi Bachi",
         "input": ":qcb::db::qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Suicho no Mai",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Houou no Mai",
+        "input": ":qcb::qcb:+[A] {or} [C]"
       }
     ]
   }
