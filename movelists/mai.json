@@ -1,0 +1,76 @@
+{
+  "names": {
+    "default": {
+      "roman": "Mai"
+    },
+    "japan": {
+      "roman": "Mai",
+      "original": "不知火 舞"
+    }
+  },
+  "images": {
+    "face": "mai.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Shiranui Gorin",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Fusha Kuzushi",
+        "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Yume Zakura",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Benitsuru no Mai",
+        "input": ":df:+[B]"
+      },
+      {
+        "name": "Wall Jump",
+        "input": "{duringJumpNearWall}, :uf:"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Kachosen",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Ryuenbu",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Hissatsu Shinobi Bachi",
+        "input": ":hcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Hakuro no Mai",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Hisho Ryuenjin",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Musasabi no Mai",
+        "input": "{charge} :d: :u:+[A] {or} [C] ({hold} [A] {or} [C] {toAttack})"
+      },
+      {
+        "name": "Kuchu Musasabi no Mai",
+        "input": "{inAir}, :qcb:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Cho Hissatsu Shinobi Bachi",
+        "input": ":qcb::db::qcf:+[B] {or} [D]"
+      }
+    ]
+  }
+}
