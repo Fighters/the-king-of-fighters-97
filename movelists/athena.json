@@ -1,0 +1,85 @@
+{
+  "names": {
+    "default": {
+      "roman": "Athena Asamiya"
+    },
+    "japan": {
+      "roman": "Athena Asamiya",
+      "original": "麻宮 アテナ"
+    }
+  },
+  "images": {
+    "face": "athena.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Bit Throw",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Psychic Throw",
+        "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Psychic Shoot",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Renkantai",
+        "input": ":f:+[B]"
+      },
+      {
+        "name": "Phoenix Bomb",
+        "input": "{inAir}, :d:+[B]"
+      },
+      {
+        "name": "Wall Jump",
+        "input": "{duringJumpNearWall}, :uf:"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Psycho Ball Attack",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Psycho Sword",
+        "input": ":dp:+[A] {or} [C] ({airOK})"
+      },
+      {
+        "name": "New Psycho Reflector",
+        "input": ":hcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Super Psychic Throw",
+        "input": "{close}, :hcf:+[C]"
+      },
+      {
+        "name": "Phoenix Arrow",
+        "input": "{inAir}, :qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Psychic Teleport",
+        "input": ":qcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Shining Crystal Bit",
+        "input": ":b::hcb:+[A] {or} [C] ({airOK}; {press} [A]+[B]+[C]+[D] {toCancel})"
+      },
+      {
+        "name": "Crystal Shoot",
+        "input": ":qcb:+[A] {or} [C] ({hold} [A] {or} [C] {toDelay})",
+        "after": "Shining Crystal Bit"
+      },
+      {
+        "name": "Phoenix Fang Arrow",
+        "input": "{inAir}, :qcf::qcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
