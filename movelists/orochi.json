@@ -1,0 +1,50 @@
+{
+  "names": {
+    "default": {
+      "roman": "Orochi"
+    },
+    "japan": {
+      "roman": "Orochi",
+      "original": "オロチ"
+    }
+  },
+  "images": {
+    "face": "orochi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Nocturnal Parasite",
+        "input": "{close}, :b: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Exorcism of Untouchables",
+        "input": ":qcf:+[A]"
+      },
+      {
+        "name": "Revelo Omnino",
+        "input": ":qcf:+[B] {or} [C]"
+      },
+      {
+        "name": "Vindicating Redress",
+        "input": ":qcf:+[D]"
+      },
+      {
+        "name": "Trial of Sky Fire",
+        "input": ":hcb:+[A] {or} [B] {or} [C] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Encompassing Chaos",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Supreme Divinity",
+        "input": ":dp:+[A] {or} [C]"
+      }
+    ]
+  }
+}
