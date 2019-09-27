@@ -1,0 +1,60 @@
+{
+  "names": {
+    "default": {
+      "roman": "Shermie Orochi"
+    },
+    "japan": {
+      "roman": "Shermie of the Savagely Crazed Flash of Lightning",
+      "original": "荒れ狂う稲光のシェルミー"
+    }
+  },
+  "images": {
+    "face": "shermieOrochi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Bakurai",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Enrai",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Korai",
+        "input": ":f:+[B]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Mugetsu no Raiun",
+        "input": ":hcf:+[A] {or} [B] {or} [C] {or} [D]"
+      },
+      {
+        "name": "Yatanagi no Muchi",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Shajitsu no Odori",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Raijin no Tsue",
+        "input": "{inAir}, :qcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Ankoku Raikoken",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Shukumei, Genei, Shinshi",
+        "input": ":qcb::db::qcf:+[B] {or} [D]"
+      }
+    ]
+  }
+}
