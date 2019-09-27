@@ -1,0 +1,81 @@
+{
+  "names": {
+    "default": {
+      "roman": "Billy"
+    },
+    "japan": {
+      "roman": "Billy",
+      "original": "ビリー・カーン"
+    }
+  },
+  "images": {
+    "face": "billy.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Jigoku Otoshi",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Ippon Tsuri Nage",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Dai Kaiten Geri",
+        "input": ":f:+[A]"
+      },
+      {
+        "name": "Botakatobi Geri",
+        "input": ":f:+[B]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Senpukon",
+        "input": "{tap} [A] {repeatedly}"
+      },
+      {
+        "name": "Shuten Renpakon",
+        "input": "{tap} [C] {repeatedly}"
+      },
+      {
+        "name": "Sansetsukon Chudan Uchi",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Kaen Sansetsukon Chudan Uchi",
+        "input": ":qcf:+[A] {or} [C]",
+        "after": "Sansetsukon Chudan Uchi"
+      },
+      {
+        "name": "Senen Sakkon",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Kyoshu Hishokon",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Karyu Tsuigekikon",
+        "input": ":qcb:+[B]"
+      },
+      {
+        "name": "Suiryu Tsuigekikon",
+        "input": ":qcb:+[D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Cho Kaen Senpukon",
+        "input": ":qcf::df::qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Dai Senpu",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
