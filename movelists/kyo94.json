@@ -1,0 +1,60 @@
+{
+  "names": {
+    "default": {
+      "roman": "Kyo '94"
+    },
+    "japan": {
+      "roman": "Kyo '94",
+      "original": "草薙 京 '94"
+    }
+  },
+  "images": {
+    "face": "kyo94.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Hatsugane",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Issetsu Seoi Nage",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Ge-Shiki: Gofu Yo",
+        "input": ":f:+[B]"
+      },
+      {
+        "name": "88 Shiki",
+        "input": ":df:+[D]"
+      },
+      {
+        "name": "Ge-Shiki: Naraku Otoshi",
+        "input": "{inAir}, :d:+[C]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "108 Shiki: Yamibarai",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "100 Shiki: Oniyaki",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "101 Shiki: Oboroguruma",
+        "input": ":rdp:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMove}": [
+      {
+        "name": "Ura 108 Shiki: Orochinagi",
+        "input": ":qcb::db::qcf:+[A] {or} [C] ({hold} [A] {or} [C] {toDelay})"
+      }
+    ]
+  }
+}
