@@ -1,0 +1,60 @@
+{
+  "names": {
+    "default": {
+      "roman": "Yashiro"
+    },
+    "japan": {
+      "roman": "Yashiro",
+      "original": "七枷 社"
+    }
+  },
+  "images": {
+    "face": "yashiro.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Lever Blow",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Hatchet Throw",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Step Side Kick",
+        "input": ":f:+[B]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Upper Duel",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Sledgehammer",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Jet Counter",
+        "input": ":hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Missile Might Bash",
+        "input": ":hcb:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Million Bash Stream",
+        "input": ":qcb::db::qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Final Impact",
+        "input": ":qcf::qcf:+[A] {or} [C] ({hold} [A] {or} [C] {toCharge})"
+      }
+    ]
+  }
+}
