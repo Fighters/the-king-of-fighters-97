@@ -1,0 +1,60 @@
+{
+  "names": {
+    "default": {
+      "roman": "Chris Orochi"
+    },
+    "japan": {
+      "roman": "Chris of the Flames of Destiny",
+      "original": "炎のさだめのクリス"
+    }
+  },
+  "images": {
+    "face": "chrisOrochi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Chi no Batsu",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Ten no Tsumi",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Muyo no Ono",
+        "input": ":f:+[A]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Taiyo o Iru Honoo",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Tsuki o Tsumu Honoo",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Kagami o Hofuru Honoo",
+        "input": ":qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Shishi o Kamu Honoo",
+        "input": "{close}, :hcf:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Ankoku Orochinagi",
+        "input": ":qcb::db::qcf:+[A] {or} [C] ({hold} [A] {or} [C] {toDelay})"
+      },
+      {
+        "name": "Daichi o Harau Goka",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
