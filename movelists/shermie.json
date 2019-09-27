@@ -1,0 +1,60 @@
+{
+  "names": {
+    "default": {
+      "roman": "Shermie"
+    },
+    "japan": {
+      "roman": "Shermie",
+      "original": "シェルミー"
+    }
+  },
+  "images": {
+    "face": "shermie.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Shermie Flash Original",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Front Flash",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Shermie Stand",
+        "input": ":f:+[B]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Axle Spin Kick",
+        "input": ":qcb:+[B] {or} [D]"
+      },
+      {
+        "name": "Shermie Whip",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Shermie Shoot",
+        "input": ":hcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Shermie Spiral",
+        "input": "{close}, :hcf:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Shermie Flash",
+        "input": "{close}, :hcb::hcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Shermie Flash",
+        "input": "{close}, :hcf::hcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
