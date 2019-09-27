@@ -1,0 +1,90 @@
+{
+  "names": {
+    "default": {
+      "roman": "Mary"
+    },
+    "japan": {
+      "roman": "Mary",
+      "original": "ブルー・マリー"
+    }
+  },
+  "images": {
+    "face": "mary.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Viktor Throw",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Head Throw",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Hammer Arch",
+        "input": ":f:+[A]"
+      },
+      {
+        "name": "Climbing Arrow",
+        "input": ":f:+[B]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "M. Spider",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Spin Fall",
+        "input": ":qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Vertical Arrow",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "M. Snatcher",
+        "input": ":dp:+[B] {or} [D]",
+        "after": "Vertical Arrow"
+      },
+      {
+        "name": "Straight Slicer",
+        "input": "{charge} :b: :f:+[B] {or} [D]"
+      },
+      {
+        "name": "Crab Clutch",
+        "input": ":qcf:+[B] {or} [D]",
+        "after": "Straight Slicer"
+      },
+      {
+        "name": "Backdrop Real",
+        "input": "{close}, :hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "M. Reverse Facelock",
+        "input": ":qcb:+[B]"
+      },
+      {
+        "name": "M. Headbuster",
+        "input": ":qcb:+[D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "M. Dynamite Swing",
+        "input": ":qcf::qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "M. Splash Rose",
+        "input": ":qcf::df::qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "M. Typhoon",
+        "input": "{close}, :hcb::hcb:+[B] {or} [D]"
+      }
+    ]
+  }
+}
