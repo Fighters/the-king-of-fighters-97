@@ -14,35 +14,35 @@
   "moves": {
     "{normalThrows}": [
       {
-        "name": "Nocturnal Parasite",
+        "name": "Arahabaki",
         "input": "{close}, :b: {or} :f:+[C] {or} [D]"
       }
     ],
     "{specialMoves}": [
       {
-        "name": "Exorcism of Untouchables",
+        "name": "Harae",
         "input": ":qcf:+[A]"
       },
       {
-        "name": "Revelo Omnino",
+        "name": "Utsushi Iwai",
         "input": ":qcf:+[B] {or} [C]"
       },
       {
-        "name": "Vindicating Redress",
+        "name": "Tadasu",
         "input": ":qcf:+[D]"
       },
       {
-        "name": "Trial of Sky Fire",
+        "name": "Honosusori",
         "input": ":hcb:+[A] {or} [B] {or} [C] {or} [D]"
       }
     ],
     "{desperationMoves}": [
       {
-        "name": "Encompassing Chaos",
+        "name": "Marokare",
         "input": ":qcb:+[A] {or} [C]"
       },
       {
-        "name": "Supreme Divinity",
+        "name": "Oomiwa",
         "input": ":dp:+[A] {or} [C]"
       }
     ]
