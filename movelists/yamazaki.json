@@ -1,0 +1,73 @@
+{
+  "names": {
+    "default": {
+      "roman": "Yamazaki"
+    },
+    "japan": {
+      "roman": "Yamazaki",
+      "original": "山崎 竜二"
+    }
+  },
+  "images": {
+    "face": "yamazaki.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Choke Hold",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Whackdown Wallop",
+        "input": "{close}, :b: {or} :f:+[D]"
+      }
+    ],
+    "{commandMoves}": [
+      {
+        "name": "Eviscerator",
+        "input": ":f:+[A]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Serpent Slash",
+        "input": ":qcb:+[A] {or} [B] {or} [C] ({hold} [A] {or} [B] {or} [C] {toDelay})"
+      },
+      {
+        "name": "Serpent Slash Cancel",
+        "input": "{whileDelaying}, {press} [D]",
+        "after": "Serpent Slash"
+      },
+      {
+        "name": "Double Return",
+        "input": ":qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Judgement Dagger",
+        "input": ":dp:+[A] {or} [C]"
+      },
+      {
+        "name": "Spray Sand",
+        "input": ":dp:+[B] {or} [D]"
+      },
+      {
+        "name": "Bombshell Badda-Bing",
+        "input": "{close} :hcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Sadomaso",
+        "input": ":hcf:+[B] {or} [D]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "Guillotine",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      },
+      {
+        "name": "Drill",
+        "input": "{close}, :hcb::hcb:+[A] {or} [C] ({tap} [A] {or} [C] {repeatedly} {forMoreHits})"
+      }
+    ]
+  }
+}
