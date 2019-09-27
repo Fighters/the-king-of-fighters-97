@@ -1,0 +1,70 @@
+{
+  "names": {
+    "default": {
+      "roman": "Leona Orochi"
+    },
+    "japan": {
+      "roman": "Leona Orochi",
+      "original": "暴走レオナ"
+    }
+  },
+  "images": {
+    "face": "leonaOrochi.webp"
+  },
+  "moves": {
+    "{normalThrows}": [
+      {
+        "name": "Leona Crush",
+        "input": "{close}, :b: {or} :f:+[C]"
+      },
+      {
+        "name": "Order Buckler",
+        "input": "{close}, :b: {or} :f:+[D]"
+      },
+      {
+        "name": "Heidern Inferno",
+        "input": "{inAirAndClose}, :b: {or} :d: {or} :f:+[C] {or} [D]"
+      }
+    ],
+    "{specialMoves}": [
+      {
+        "name": "Moon Slasher",
+        "input": "{charge} :d: :u:+[A] {or} [C]"
+      },
+      {
+        "name": "X Caliber",
+        "input": "{charge} :d: :u:+[B] {or} [D]"
+      },
+      {
+        "name": "Baltic Launcher",
+        "input": "{charge} :b: :f:+[A] {or} [C]"
+      },
+      {
+        "name": "Grand Saber",
+        "input": "{charge} :b: :f:+[B] {or} [D]"
+      },
+      {
+        "name": "Gliding Buster",
+        "input": "{charge} :b: :f:+[D] > :f:+[D]"
+      },
+      {
+        "name": "Eye Slasher",
+        "input": ":qcb:+[A] {or} [C]"
+      }
+    ],
+    "{desperationMoves}": [
+      {
+        "name": "V Slasher",
+        "input": "{inAir} :qcf::df::qcb:+[A] {or} [C]"
+      },
+      {
+        "name": "Rebel Spark",
+        "input": ":qcb::db::qcf:+[B] {or} [D]"
+      },
+      {
+        "name": "Gravity Storm",
+        "input": ":qcf::qcf:+[A] {or} [C]"
+      }
+    ]
+  }
+}
