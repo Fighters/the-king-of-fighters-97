@@ -14,7 +14,7 @@
   "moves": {
     "{normalThrows}": [
       {
-        "name": "Leona Crush",
+        "name": "Leona Crash",
         "input": "{close}, :b: {or} :f:+[C]"
       },
       {

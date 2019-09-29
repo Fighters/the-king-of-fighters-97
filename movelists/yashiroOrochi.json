@@ -34,15 +34,15 @@
         "input": ":qcb:+[A] {or} [C]"
       },
       {
-        "name": "Musebu Daichi",
+        "name": "Odoru Daichi",
         "input": ":hcf:+[B] {or} [D]"
       },
       {
-        "name": "Odoro Daichi",
+        "name": "Niragu Daichi",
         "input": "{close}, :hcf:+[A] {or} [C]"
       },
       {
-        "name": "Niragu Daichi",
+        "name": "Musebu Daichi",
         "input": "{close}, :hcb::f:+[A] {or} [C]"
       }
     ],

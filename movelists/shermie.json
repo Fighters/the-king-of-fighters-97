@@ -52,7 +52,7 @@
         "input": "{close}, :hcb::hcb:+[A] {or} [C]"
       },
       {
-        "name": "Shermie Flash",
+        "name": "Shermie Carnival",
         "input": "{close}, :hcf::hcf:+[A] {or} [C]"
       }
     ]

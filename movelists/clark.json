@@ -51,7 +51,7 @@
       },
       {
         "name": "Super Argentine Backbreaker",
-        "input": "{perto}, :hcf:+[B] {or} [D]"
+        "input": "{close}, :hcf:+[B] {or} [D]"
       },
       {
         "name": "Flashing Elbow",
@@ -65,7 +65,7 @@
       },
       {
         "name": "Running Three",
-        "input": ":hcb::hcb:+[B] {or} [D]"
+        "input": ":hcf::hcf:+[B] {or} [D]"
       }
     ]
   },
