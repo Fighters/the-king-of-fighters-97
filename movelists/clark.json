@@ -46,7 +46,7 @@
         "input": ":dp:+[B] {or} [D]"
       },
       {
-        "name": "Rolling Cradle",
+        "name": "Rolling Cradler",
         "input": ":hcf:+[A] {or} [C]"
       },
       {
@@ -71,10 +71,10 @@
   },
   "custom_strings": {
     "english": {
-      "afterClarkCommandThrows": "after Napalm Stretch, Rolling Cradle, Frankensteiner {or} Super Argentine Backbreaker"
+      "afterClarkCommandThrows": "after Napalm Stretch, Rolling Cradler, Frankensteiner {or} Super Argentine Backbreaker"
     },
     "portuguese": {
-      "afterClarkCommandThrows": "após Napalm Stretch, Rolling Cradle, Frankensteiner {or} Super Argentine Backbreaker"
+      "afterClarkCommandThrows": "após Napalm Stretch, Rolling Cradler, Frankensteiner {or} Super Argentine Backbreaker"
     }
   }
 }

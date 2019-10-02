@@ -32,7 +32,7 @@
         "input": "{charge} :d: :u:+[A] {or} [C]"
       },
       {
-        "name": "X Caliber",
+        "name": "X-Calibur",
         "input": "{charge} :d: :u:+[B] {or} [D]"
       },
       {
@@ -54,7 +54,7 @@
     ],
     "{desperationMoves}": [
       {
-        "name": "V Slasher",
+        "name": "V-Slasher",
         "input": "{inAir} :qcf::df::qcb:+[A] {or} [C]"
       },
       {
