@@ -1,575 +1,118 @@
 {
-    "romans": {
+  "names": [
+    {
+      "region": "default",
+      "roman": "The King of Fighters '97"
+    },
+    {
+      "region": "japan",
+      "roman": "The King of Fighters '97",
+      "original": "ザ・キング・オブ・ファイターズ '97"
+    }
+  ],
+  "also-known-as": [
+    "kof 97",
+    "97"
+  ],
+  "platforms": [
+    {
+      "name": "Arcade",
       "regions": [
         {
-          "region": "default",
-          "roman": "The King of Fighters '97"
+          "name": "Japan",
+          "roman": "The King of Fighters '97",
+          "original": "ザ・キング・オブ・ファイターズ '97",
+          "releaseDate": "07-28-1997",
+          "developer": "SNK",
+          "publisher": "SNK"
         },
         {
-          "region": "japan",
+          "name": "United States",
           "roman": "The King of Fighters '97",
-          "original": "ザ・キング・オブ・ファイターズ '97"
+          "releaseDate": "07-28-1997",
+          "developer": "SNK",
+          "publisher": "SNK"
+        },
+        {
+          "name": "Europe",
+          "roman": "The King of Fighters '97",
+          "releaseDate": "07-28-1997",
+          "developer": "SNK",
+          "publisher": "SNK"
         }
-      ],
-      "also-known-as": ["kof 97", "97"]
+      ]
     },
-    "platforms": [
-      {
-        "platform": "Arcade",
-        "regions": [
-          {
-            "region": "Japan",
-            "roman": "The King of Fighters '97",
-            "original": "ザ・キング・オブ・ファイターズ '97",
-            "releaseDate": "07-28-1997",
-            "developer": "SNK",
-            "publisher": "SNK"
-          },
-          {
-            "region": "United States",
-            "roman": "The King of Fighters '97",
-            "releaseDate": "07-28-1997",
-            "developer": "SNK",
-            "publisher": "SNK"
-          },
-          {
-            "region": "Europe",
-            "roman": "The King of Fighters '97",
-            "releaseDate": "07-28-1997",
-            "developer": "SNK",
-            "publisher": "SNK"
-          }
-        ]
-      },
-      {
-        "platform": "Neo Geo",
-        "regions": [
-          {
-            "region": "Japan",
-            "roman": "The King of Fighters '97",
-            "original": "ザ・キング・オブ・ファイターズ '97",
-            "releaseDate": "09-25-1997",
-            "developer": "SNK",
-            "publisher": "SNK",
-            "coverFront": "ng-jp-front.webp"
-          },
-          {
-            "region": "United States",
-            "roman": "The King of Fighters '97",
-            "releaseDate": "09-25-1997",
-            "developer": "SNK",
-            "publisher": "SNK",
-            "coverFront": "ng-us-front.webp"
-          }
-        ]
-      },
-      {
-        "platform": "Neo Geo CD",
-        "regions": [
-          {
-            "region": "Japan",
-            "roman": "The King of Fighters '97",
-            "original": "ザ・キング・オブ・ファイターズ '97",
-            "releaseDate": "10-30-1997",
-            "developer": "SNK",
-            "publisher": "SNK",
-            "coverFront": "ngcd-jp-front.webp"
-          },
-          {
-            "region": "United States",
-            "roman": "The King of Fighters '97",
-            "releaseDate": "10-30-1997",
-            "developer": "SNK",
-            "publisher": "SNK",
-            "coverFront": "ngcd-us-front.webp"
-          }
-        ]
-      },
-      {
-        "platform": "PlayStation",
-        "regions": [
-          {
-            "region": "Japan",
-            "roman": "The King of Fighters '97",
-            "original": "ザ・キング・オブ・ファイターズ '97",
-            "releaseDate": "05-28-1998",
-            "developer": "SNK",
-            "publisher": "SNK",
-            "coverFront": "ps1-jp-front.webp"
-          }
-        ]
-      },
-      {
-        "platform": "Saturn",
-        "regions": [
-          {
-            "region": "Japan",
-            "roman": "The King of Fighters '97",
-            "original": "ザ・キング・オブ・ファイターズ '97",
-            "releaseDate": "03-26-1998",
-            "developer": "SNK",
-            "publisher": "SNK",
-            "coverFront": "saturn-jp-front.webp"
-          }
-        ]
-      }
-    ],
-    "characters": [
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Kyo Kusanagi"
-          },
-          {
-            "region": "japan",
-            "roman": "Kyo Kusanagi",
-            "original": "草薙 京"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Benimaru Nikaido"
-          },
-          {
-            "region": "japan",
-            "roman": "Benimaru Nikaido",
-            "original": "二階堂 紅丸"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Goro Daimon"
-          },
-          {
-            "region": "japan",
-            "roman": "Goro Daimon",
-            "original": "大門 五郎"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Terry Bogard"
-          },
-          {
-            "region": "japan",
-            "roman": "Terry Bogard",
-            "original": "テリー・ボガード"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Andy Bogard"
-          },
-          {
-            "region": "japan",
-            "roman": "Andy Bogard",
-            "original": "アンディ・ボガード"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Joe Higashi"
-          },
-          {
-            "region": "japan",
-            "roman": "Joe Higashi",
-            "original": "ジョー・ヒガシ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Athena Asamiya"
-          },
-          {
-            "region": "japan",
-            "roman": "Athena Asamiya",
-            "original": "麻宮 アテナ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Sie Kensou"
-          },
-          {
-            "region": "japan",
-            "roman": "Sie Kensou",
-            "original": "椎 拳崇"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Chin Gentsai"
-          },
-          {
-            "region": "japan",
-            "roman": "Chin Gentsai",
-            "original": "鎮 元斎"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Kim Kaphwan"
-          },
-          {
-            "region": "japan",
-            "roman": "Kim Kaphwan",
-            "original": "キム・カッファン"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Chang Koehan"
-          },
-          {
-            "region": "japan",
-            "roman": "Chang Koehan",
-            "original": "チャン・コーハン"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Choi Bounge"
-          },
-          {
-            "region": "japan",
-            "roman": "Choi Bounge",
-            "original": "チョイ・ボンゲ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Leona Heidern"
-          },
-          {
-            "region": "japan",
-            "roman": "Leona Heidern",
-            "original": "レオナ・ハイデルン"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Ralf Jones"
-          },
-          {
-            "region": "japan",
-            "roman": "Ralf Jones",
-            "original": "ラルフ・ジョーンズ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Clark Still"
-          },
-          {
-            "region": "japan",
-            "roman": "Clark Still",
-            "original": "クラーク・スティル"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Mai Shiranui"
-          },
-          {
-            "region": "japan",
-            "roman": "Mai Shiranui",
-            "original": "不知火 舞"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "King"
-          },
-          {
-            "region": "japan",
-            "roman": "King",
-            "original": "キング"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Chizuru Kagura"
-          },
-          {
-            "region": "japan",
-            "roman": "Chizuru Kagura",
-            "original": "神楽 ちづる"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Ryo Sakazaki"
-          },
-          {
-            "region": "japan",
-            "roman": "Ryo Sakazaki",
-            "original": "リョウ・サカザキ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Robert Garcia"
-          },
-          {
-            "region": "japan",
-            "roman": "Robert Garcia",
-            "original": "ロバート・ガルシア"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Yuri Sakazaki"
-          },
-          {
-            "region": "japan",
-            "roman": "Yuri Sakazaki",
-            "original": "ユリ・サカザキ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Yashiro Nanakase"
-          },
-          {
-            "region": "japan",
-            "roman": "Yashiro Nanakase",
-            "original": "七枷 社"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Shermie"
-          },
-          {
-            "region": "japan",
-            "roman": "Shermie",
-            "original": "シェルミー"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Chris"
-          },
-          {
-            "region": "japan",
-            "roman": "Chris",
-            "original": "クリス"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Blue Mary"
-          },
-          {
-            "region": "japan",
-            "roman": "Blue Mary",
-            "original": "ブルー・マリー"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Ryuji Yamazaki"
-          },
-          {
-            "region": "japan",
-            "roman": "Ryuji Yamazaki",
-            "original": "山崎 竜二"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Billy Kane"
-          },
-          {
-            "region": "japan",
-            "roman": "Billy Kane",
-            "original": "ビリー・カーン"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Iori Yagami"
-          },
-          {
-            "region": "japan",
-            "roman": "Iori Yagami",
-            "original": "八神 庵"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Shingo Yabuki"
-          },
-          {
-            "region": "japan",
-            "roman": "Shingo Yabuki",
-            "original": "矢吹 真吾"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Yashiro Orochi"
-          },
-          {
-            "region": "japan",
-            "roman": "Yashiro Nanakase of the Parched Earth",
-            "original": "乾いた大地の社"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Shermie Orochi"
-          },
-          {
-            "region": "japan",
-            "roman": "Shermie of the Savagely Crazed Flash of Lightning",
-            "original": "荒れ狂う稲光のシェルミー"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Chris Orochi"
-          },
-          {
-            "region": "japan",
-            "roman": "Chris of the Flames of Destiny",
-            "original": "炎のさだめのクリス"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Iori Orochi"
-          },
-          {
-            "region": "japan",
-            "roman": "Iori Orochi",
-            "original": "暴走庵"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Leona Orochi"
-          },
-          {
-            "region": "japan",
-            "roman": "Leona Orochi",
-            "original": "暴走レオナ"
-          }
-        ]
-      },
-      {
-        "regions": [
-          {
-            "region": "default",
-            "roman": "Orochi"
-          },
-          {
-            "region": "japan",
-            "roman": "Orochi",
-            "original": "オロチ"
-          }
-        ]
-      }
-    ]
-  }
-  
+    {
+      "name": "Neo Geo",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters '97",
+          "original": "ザ・キング・オブ・ファイターズ '97",
+          "releaseDate": "09-25-1997",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ng-jp-front.webp"
+        },
+        {
+          "name": "United States",
+          "roman": "The King of Fighters '97",
+          "releaseDate": "09-25-1997",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ng-us-front.webp"
+        }
+      ]
+    },
+    {
+      "name": "Neo Geo CD",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters '97",
+          "original": "ザ・キング・オブ・ファイターズ '97",
+          "releaseDate": "10-30-1997",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ngcd-jp-front.webp"
+        },
+        {
+          "name": "United States",
+          "roman": "The King of Fighters '97",
+          "releaseDate": "10-30-1997",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ngcd-us-front.webp"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters '97",
+          "original": "ザ・キング・オブ・ファイターズ '97",
+          "releaseDate": "05-28-1998",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "ps1-jp-front.webp"
+        }
+      ]
+    },
+    {
+      "name": "Saturn",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters '97",
+          "original": "ザ・キング・オブ・ファイターズ '97",
+          "releaseDate": "03-26-1998",
+          "developer": "SNK",
+          "publisher": "SNK",
+          "coverFront": "saturn-jp-front.webp"
+        }
+      ]
+    }
+  ]
+}
